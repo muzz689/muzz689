@@ -2,7 +2,6 @@
 <h3 align="center">I program bugs.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzz689&label=Profile%20views&color=0e75b6&style=flat" alt="muzz689" /> </p>
 
-- 🔭 I’m currently working on **my Postgraduate research in computer science**
 
 - 🌱 I’m currently learning **Machine Learning**
 
