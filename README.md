@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzz689&label=Profile%20views&color=0e75b6&style=flat" alt="muzz689" /> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning ** Backend Engineering**
 
 - ✍️In my free time i like to **watch anime, cricket and play games**
 
